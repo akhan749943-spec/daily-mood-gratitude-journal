@@ -1,0 +1,10 @@
+{
+  "name": "Daily Mood & Gratitude Journal",
+  "short_name": "MoodJournal",
+  "description": "Mindful daily mood tracking, gratitude reflections, and daily task trends.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f2eb",
+  "theme_color": "#c86d51"
+}
